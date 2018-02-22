@@ -1,0 +1,1 @@
+document.write('<div id="ad_banner"><a href="http://www.whasabbi.com/"><img alt="whasabbi" src="http://www.whasabbi.com/i_love_whasabbi.png" height="90" width="729"/></a></div>');
