@@ -1,4 +1,1 @@
-var e=document.createElement('div');
-e.id='dsPiLkuASlmY';
-e.style.display='none';
-document.body.appendChild(e);
+isAdBlockActive=false;
